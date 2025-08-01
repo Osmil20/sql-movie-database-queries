@@ -20,9 +20,6 @@ Execução das Consultas:
 
 Após a criação do banco, rode o arquivo queries.sql para visualizar os resultados de cada exercício.
 
-📸 Resultados
-Serão adicionados prints dos resultados de cada query para facilitar a visualização. (em breve)
-
 📚 Aprendizados
 Criação e modelagem de tabelas
 
